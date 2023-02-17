@@ -19,10 +19,18 @@ I created my own Zero Spend Budget for $1 because I cannot afford any kind of sp
 
 ### Recreate Conceptual Architectural Deisgn
 
+I created a conceptual design for the architecture
 ![Cruddur Logical Design](assets/conceptual%20drawing.png)
 
 [Lucid Charts Share Link](https://lucid.app/lucidchart/82fe731e-065f-4928-acc5-f7c87edd9f11/edit?viewport_loc=-701%2C295%2C2541%2C1145%2C0_0&invitationId=inv_01f6ae60-f884-4a1f-8441-2eeca43b88c0
 )
+
+### Create a Billing Alarm
+
+I created my own billing alarm
+
+![Image of The Budget Alarm I Created](assets/billing%20alarm.png)
+
 
 ### Recreate Logical Architectural Deisgn
 
