@@ -7,9 +7,9 @@ RUN pip3 install -r requirements.txt
 
 COPY . .
 
-RUN chmod +x ./script.sh
+RUN chmod +x run.sh
 
 ENV FLASK_ENV=development
 
 EXPOSE ${PORT}
-CMD [ "./CMD.sh"]
+CMD ["./run.sh"]
