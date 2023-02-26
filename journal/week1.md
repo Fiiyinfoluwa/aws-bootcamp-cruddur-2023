@@ -16,6 +16,7 @@ This is an image of my containerized backend app served on port 3000
 I wrote a [docker-compose file](../docker-compose.yml) to can orchestrate multiple containers to run side and side and also mount directories so we can make changes while we code.
 
 ## Notifications Feed Page
+
 I wrote the [react page](../frontend-react-js/src/pages/NotificationsFeedPage.js) for my notifications page frontend and flask backend endpoint for the notifications page.
 
 This is the image of of my notifications page being served while I am logged in as user fiiyinfoluwa
