@@ -12,4 +12,4 @@ RUN npm install
 
 EXPOSE ${PORT}
 
-CMD [./script.sh]
+CMD ["./script.sh"]
